@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**zyadelhady/zyadelhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi I'm Mohamed 👋 👨🏻‍💻
 
 [![twitter badge](https://img.shields.io/badge/twitter-@mohamed__abusrea-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/mohamed_abusrea)
@@ -15,6 +10,11 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany.
 - 🔍 I have 2 live apps: [Quran-tab - chrome extension](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd), Wazaker App - [Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014)
 - 💬 Ask me about **ReactJs and Frontend**
+
+<!--
+**zyadelhady/zyadelhady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
   
 - 🔭 I’m currently working on ...
