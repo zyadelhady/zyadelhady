@@ -11,7 +11,7 @@ I'm a Full stack developer who is passionate about creating technology to elevat
 - 🌱 I’m currently learning SQL Database and Alogrithms .
 - 💬 Ask me about **ReactJs , Node js and Fullstack**
 
--💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
+- 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
 Email: zyade40@gmail.com
 
 
