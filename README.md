@@ -7,7 +7,7 @@
 
 I'm a Full stack developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, Node js .
 
-- 🔭'm a Full stack developer in Egypt.
+- 🔭 I'm a Full stack developer in Egypt.
 - 🌱 I’m currently learning SQL Database and Alogrithms .
 - 💬 Ask me about **ReactJs , Node js and Fullstack**
 
