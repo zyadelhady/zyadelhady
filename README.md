@@ -5,10 +5,9 @@
 [![twitter badge](https://img.shields.io/badge/instagram-@zyadelhady-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zyad_elhady/)
 [![Gmail Badge](https://img.shields.io/badge/-zyade40@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zyade40@gmail.com)](mailto:zyade40@gmail.com)
 
-I'm a Full stack developer who is passionate about creating technology to elevate people . seeking a career that fits my professional skills, personality, Some technologies I enjoy working with include Javascript, typescript, ReactJS, Node js .
+I'm a Software Engineer who is passionate about creating technology to elevate people . seeking a career that fits my professional skills, personality, Some technologies I enjoy working with include Javascript, typescript, ReactJS, Node js, C#, .Net .
 
-- 🔭 I'm a Full stack developer in Egypt.
-- 🌱 I’m currently learning .Net Core , angular , sql .
+- 🔭 I'm a Software Engineer in Egypt.
 - 💬 Ask me about **ReactJs , Node js and Fullstack**
 
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
