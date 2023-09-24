@@ -1,8 +1,6 @@
 ### Hi I'm Zyad 👋 👨🏻‍💻
 
-[![twitter badge](https://img.shields.io/badge/twitter-@zyadelhady-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Hmtaro__)
-[![dev.to badge](https://img.shields.io/badge/linkedin-zyadelhady-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zyad-elhady-87a37a185/)
-[![twitter badge](https://img.shields.io/badge/instagram-@zyadelhady-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/zyad_elhady/)
+[![dev.to badge](https://img.shields.io/badge/linkedin-zyadelhady-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/zyadelhady)
 [![Gmail Badge](https://img.shields.io/badge/-zyade40@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zyade40@gmail.com)](mailto:zyade40@gmail.com)
 
 I'm a Software Engineer who is passionate about creating technology to elevate people . seeking a career that fits my professional skills, personality, Some technologies I enjoy working with include Javascript, typescript, ReactJS, Node js, C#, .Net .
