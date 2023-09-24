@@ -6,7 +6,7 @@
 I'm a Software Engineer who is passionate about creating technology to elevate people . seeking a career that fits my professional skills, personality, Some technologies I enjoy working with include Javascript, typescript, ReactJS, Node js, C#, .Net .
 
 - 🔭 I'm a Software Engineer in Egypt.
-- 💬 Ask me about **ReactJs , Node js and Fullstack**
+- 💬 Ask me about **ReactJs , Node js , C# and Databases**
 
 - 💼 If you have questions, or you have a project I'm available for freelancing and also I'm looking for a new opportunities, you can always contact me at:
 Email: zyade40@gmail.com
